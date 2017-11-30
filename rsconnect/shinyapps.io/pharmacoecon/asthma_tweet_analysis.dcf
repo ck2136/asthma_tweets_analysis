@@ -1,0 +1,10 @@
+name: asthma_tweet_analysis
+title:
+username:
+account: pharmacoecon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 225499
+bundleId: 1033928
+url: https://pharmacoecon.shinyapps.io/asthma_tweet_analysis/
+when: 1508381686.27166
